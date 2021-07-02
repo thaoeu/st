@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Source Code Pro:pixelsize=25:antialias=true:autohint=true";
+static char *font = "Source Code Pro:pixelsize=15:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -99,9 +99,9 @@ static const char *colorname[] = {
 [1] = "#ff5555",
 [2] = "#50fa7b",
 [3] = "#f1fa8c",
-[4] = "#66ccff",
+[4] = "#606580",
 [5] = "#ff79c6",
-[6] = "#9aedfe",
+[6] = "#66ccff",
 [7] = "#f9f9f9",
 
 [8] = "#119724",
